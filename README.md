@@ -88,8 +88,6 @@
 
 ## 💡 Featured Projects
 
-## 💡 Featured Projects
-
 ### 🌟 [BlogApp](https://github.com/minhancr123/BlogApp)
 A modern full-stack **blogging platform** built with **Next.js** and **MongoDB**, featuring complete user authentication, role-based authorization, and dynamic blog management.
 
