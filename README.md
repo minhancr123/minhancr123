@@ -1,13 +1,13 @@
 # 👋 Hi, I'm An!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Angular+%26+ASP.NET+Enthusiast;Always+learning+everyday;Based+in+Vietnam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Angular+%26+React+Enthusiast;ASP.NET+%26+Node.js+Developer;Always+learning+everyday;Based+in+Vietnam" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 📍 **Based in Vietnam** | 🧠 **Learning everyday**  
-💡 **Interested in Web Development, especially Angular & ASP.NET**  
+💡 **Interested in Full-stack Web Development with Angular, React, ASP.NET & Node.js**  
 🎓 **Ho Chi Minh University Industry and Trade**  
 📂 **Check out my projects below**
 
@@ -29,12 +29,17 @@
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CF649A?style=flat-square&logo=sass&logoColor=white)
 
 ### Backend
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
@@ -83,14 +88,28 @@
 
 ## 💡 Featured Projects
 
-### 🌟 [Project Name 1](https://github.com/minhancr123/project1)
-Brief description of your most impressive project. What it does, technologies used, and key features.
+### 🌟 [E-Commerce Web Application](https://github.com/minhancr123/ecommerce-webapp)
+Full-stack e-commerce platform built with **Angular** frontend and **ASP.NET Core Web API** backend. Features user authentication, product catalog, shopping cart, and payment integration.
+- **Frontend**: Angular 15+, Bootstrap, TypeScript
+- **Backend**: ASP.NET Core 6, Entity Framework, SQL Server
+- **Features**: JWT Authentication, RESTful API, Responsive Design
 
-### 🌟 [Project Name 2](https://github.com/minhancr123/project2)
-Brief description of another significant project. Highlight the impact and technologies used.
+### 🌟 [Task Management System](https://github.com/minhancr123/task-management-system)
+A comprehensive task management application with real-time updates and team collaboration features. Built with modern web technologies.
+- **Frontend**: Angular, Angular Material, RxJS
+- **Backend**: ASP.NET Core, SignalR for real-time updates
+- **Features**: Real-time notifications, Role-based access, Dashboard analytics
 
-### 🌟 [Project Name 3](https://github.com/minhancr123/project3)
-Brief description of a third project that showcases your skills and creativity.
+### 🌟 [Student Management Portal](https://github.com/minhancr123/student-portal)
+Academic management system for Ho Chi Minh University Industry and Trade. Manages student records, course enrollment, and grade tracking.
+- **Frontend**: Angular, PrimeNG, Chart.js
+- **Backend**: ASP.NET Core MVC, Entity Framework Core
+- **Features**: Student portal, Admin dashboard, Report generation
+
+### 🌟 [Personal Portfolio Website](https://github.com/minhancr123/portfolio)
+My personal portfolio website showcasing my web development projects and skills. Built with modern Angular and responsive design.
+- **Tech Stack**: Angular, SCSS, TypeScript, Firebase Hosting
+- **Features**: Interactive UI, Project showcase, Contact form, SEO optimized
 
 ---
 
