@@ -88,30 +88,23 @@
 
 ## 💡 Featured Projects
 
-### 🌟 [E-Commerce Web Application](https://github.com/minhancr123/ecommerce-webapp)
-Full-stack e-commerce platform built with **Angular** frontend and **ASP.NET Core Web API** backend. Features user authentication, product catalog, shopping cart, and payment integration.
-- **Frontend**: Angular 15+, Bootstrap, TypeScript
-- **Backend**: ASP.NET Core 6, Entity Framework, SQL Server
-- **Features**: JWT Authentication, RESTful API, Responsive Design
+## 💡 Featured Projects
 
-### 🌟 [Task Management System](https://github.com/minhancr123/task-management-system)
-A comprehensive task management application with real-time updates and team collaboration features. Built with modern web technologies.
-- **Frontend**: Angular, Angular Material, RxJS
-- **Backend**: ASP.NET Core, SignalR for real-time updates
-- **Features**: Real-time notifications, Role-based access, Dashboard analytics
+### 🌟 [BlogApp](https://github.com/minhancr123/BlogApp)
+A modern full-stack **blogging platform** built with **Next.js** and **MongoDB**, featuring complete user authentication, role-based authorization, and dynamic blog management.
 
-### 🌟 [Student Management Portal](https://github.com/minhancr123/student-portal)
-Academic management system for Ho Chi Minh University Industry and Trade. Manages student records, course enrollment, and grade tracking.
-- **Frontend**: Angular, PrimeNG, Chart.js
-- **Backend**: ASP.NET Core MVC, Entity Framework Core
-- **Features**: Student portal, Admin dashboard, Report generation
+- **Frontend**: Next.js (App Router), TypeScript, Tailwind CSS, React Hook Form, React Markdown
+- **Backend**: Next.js API Routes, Mongoose ODM
+- **Database**: MongoDB (Mongoose models)
+- **Authentication**: JWT-based with refresh token strategy
+- **Authorization**: Role-based (Admin, Editor, Reader)
+- **Features**:
+  - Secure login & register with token handling
+  - Create, edit, and delete blog posts
+  - Markdown support for writing articles
+  - Protected admin dashboard for managing content
+  - Responsive design optimized for all devices
 
-### 🌟 [Personal Portfolio Website](https://github.com/minhancr123/portfolio)
-My personal portfolio website showcasing my web development projects and skills. Built with modern Angular and responsive design.
-- **Tech Stack**: Angular, SCSS, TypeScript, Firebase Hosting
-- **Features**: Interactive UI, Project showcase, Contact form, SEO optimized
-
----
 
 <div align="center">
   <h3>💫 "Learning never exhausts the mind." - Leonardo da Vinci</h3>
